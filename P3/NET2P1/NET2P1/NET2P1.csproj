@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="data.cs" />
+    <Compile Include="models\data.cs" />
     <Compile Include="models\Football.cs" />
     <Compile Include="parser.cs" />
     <Compile Include="Program.cs" />
@@ -52,8 +52,8 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="football.dat" />
-    <None Include="weather.dat" />
+    <None Include="files\football.dat" />
+    <None Include="files\weather.dat" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
