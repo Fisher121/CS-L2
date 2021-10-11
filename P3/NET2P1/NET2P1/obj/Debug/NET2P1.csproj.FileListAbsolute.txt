@@ -1,0 +1,14 @@
+C:\Users\ghiuz\source\repos\NET2P1\NET2P1\bin\Debug\NET2P1.exe.config
+C:\Users\ghiuz\source\repos\NET2P1\NET2P1\bin\Debug\NET2P1.exe
+C:\Users\ghiuz\source\repos\NET2P1\NET2P1\bin\Debug\NET2P1.pdb
+C:\Users\ghiuz\source\repos\NET2P1\NET2P1\obj\Debug\NET2P1.csproj.AssemblyReference.cache
+C:\Users\ghiuz\source\repos\NET2P1\NET2P1\obj\Debug\NET2P1.csproj.CoreCompileInputs.cache
+C:\Users\ghiuz\source\repos\NET2P1\NET2P1\obj\Debug\NET2P1.exe
+C:\Users\ghiuz\source\repos\NET2P1\NET2P1\obj\Debug\NET2P1.pdb
+D:\NET2P1\NET2P1\bin\Debug\NET2P1.exe.config
+D:\NET2P1\NET2P1\bin\Debug\NET2P1.exe
+D:\NET2P1\NET2P1\bin\Debug\NET2P1.pdb
+D:\NET2P1\NET2P1\obj\Debug\NET2P1.csproj.AssemblyReference.cache
+D:\NET2P1\NET2P1\obj\Debug\NET2P1.csproj.CoreCompileInputs.cache
+D:\NET2P1\NET2P1\obj\Debug\NET2P1.exe
+D:\NET2P1\NET2P1\obj\Debug\NET2P1.pdb
